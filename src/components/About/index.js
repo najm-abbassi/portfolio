@@ -13,7 +13,7 @@ export default function About() {
         <div className="flex-col mt-14 flex flex-auto w-64 gap-6">
           <h3 className="text-3xl font-medium" data-aos={"fade-left"}>
             I'm <span className="text-yellow-600">Najmeddin Abbassi,</span> a Web
-            Enthusiast
+        developer
           </h3>
           <p
             className="pt-5 leading-7 text-slate-900 text-justify"
